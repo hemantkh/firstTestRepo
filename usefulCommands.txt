@@ -1,2 +1,6 @@
 git config --global http.proxy http://username:password@proxy61.iitd.ac.in:3128 # this tells git to use the proxy server; without this it will not connect to internet
 
+git add
+git commit -a
+git push
+
